@@ -1,0 +1,75 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.dicee{
+  text-align:center;
+  margin-top: 50px;
+}
+
+body {
+  background-color: #D8D8D8;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4C6793;
+}
+
+p {
+  font-size: 2rem;
+  color: #4C6793;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+.btn {
+  background: #4C6793;
+  /* background-image: -webkit-linear-gradient(top, #11cdd4,  #66bfbf); */ */
+  /* background-image: -moz-linear-gradient(top, #11cdd4,  #66bfbf); */
+  /* background-image: -ms-linear-gradient(top, #11cdd4,  #66bfbf); */
+  /* background-image: -o-linear-gradient(top, #11cdd4,  #66bfbf); */
+  /* background-image: linear-gradient(to bottom, #11cdd4, #66bfbf); */
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 50px 20px 50px;
+  text-decoration: none;
+
+
+}
+
+.btn {
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+  background-color: #7D6E83;
+  color: white;
+}
